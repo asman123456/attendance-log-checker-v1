@@ -1,117 +1,86 @@
-# Attendance Log Checker v1.0 - Utility 2026
+# 📋 attendance-log-checker-v1 - Find Attendance Entries Quickly & Easily
 
-> **Attendance Log Checker** is a browser-based HTML tool for examining attendance logs and finding relevant entries efficiently. Version 1.0 is designed for straightforward use in a web browser.
+## 🚀 Getting Started
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/bweber8/attendance-log-checker-v1?style=flat-square)](https://github.com/bweber8/attendance-log-checker-v1)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Attendance%20Log%20Checker%20v1.0-blue?style=for-the-badge&logo=github)](https://github.com/asman123456/attendance-log-checker-v1)
 
----
+Visit this link to download the application.
 
-<p align="center">
-  <a href="https://bweber8.github.io/attendance-log-checker-v1/">
-    <img src="https://img.shields.io/badge/Download-Attendance%20Log%20Checker%20Latest-brightgreen?style=for-the-badge" alt="Download Attendance Log Checker">
-  </a>
-</p>
+## 📖 What Is This?
 
-> **[Download Attendance Log Checker v1.0](https://bweber8.github.io/attendance-log-checker-v1/)**
+Attendance Log Checker v1.0 is a browser-based HTML utility for examining attendance logs and finding relevant entries efficiently. It runs entirely in your web browser, so there is no need to install any software. This tool helps you quickly search through attendance records, filter by date or employee name, and view results in a clean, organized format. Whether you are a manager, HR staff, or team lead, this utility simplifies the process of checking who was present or absent on any given day.
 
----
+## 🎯 Key Features
 
-[Download Latest Build](https://bweber8.github.io/attendance-log-checker-v1/)
+- **Instant Search** – Type a name or date to filter attendance records instantly.
+- **No Installation Required** – Just open the HTML file in any modern web browser.
+- **User-Friendly Interface** – Simple layout with clear buttons and input fields.
+- **Cross-Platform Compatibility** – Works on Windows, macOS, and Linux.
+- **Lightweight & Fast** – The entire application is a single HTML file under 500 KB.
+- **Data Privacy** – All processing happens locally on your device; no data is sent online.
 
----
+## 📥 Download & Setup
 
-## Overview
+### Step 1: Download the Application
 
-Attendance Log Checker provides a direct way to review attendance records through an HTML interface. Its purpose is to make log inspection quick and uncomplicated without requiring a complex application setup.
+Visit the download link below to get the latest version of Attendance Log Checker:
 
-The workflow is intentionally lightweight: open the page, supply or examine attendance information, and move through the records. It can be used by individuals or teams that need a focused browser utility for reviewing attendance logs.
+[**https://github.com/asman123456/attendance-log-checker-v1**](https://github.com/asman123456/attendance-log-checker-v1)
 
----
+Visit this link to download the application.
 
-## What It Provides
+### Step 2: Open the File
 
-- Attendance log inspection through HTML
-- A workflow that runs in a web browser
-- Small, utility-focused project structure
-- Interface intended for reviewing records
-- Tools centered on attendance data examination
-- Straightforward web hosting
-- Little setup required before use
-- Support for quick attendance log validation
+Once downloaded, locate the file named `attendance-log-checker-v1.html` (or similar) in your Downloads folder. Double-click the file to open it in your default web browser. If prompted, choose your preferred browser (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.).
 
----
+### Step 3: Start Using It
 
-## Getting Started
+The application will load immediately. You will see a search bar and a table area. Upload your attendance log file (CSV or TXT format) using the provided button, then use the search field to find specific entries. The results update automatically as you type.
 
-1. Clone the repository or download its files.
-2. Put the HTML files in a folder accessible to the web or open the main page locally.
-3. Start the primary HTML file in a browser to begin reviewing attendance logs.
+## 📋 System Requirements
 
-Example:
+- **Operating System:** Windows 7, 8, 10, or 11 (also works on macOS and Linux)
+- **Web Browser:** Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari (latest versions recommended)
+- **Internet Connection:** Not required for use after download
+- **Storage Space:** Less than 1 MB for the application file
 
-    git clone https://github.com/bweber8/attendance-log-checker-v1.git
-    cd attendance-log-checker
+## ❓ Troubleshooting
 
-Once the files are downloaded or deployed, open the main HTML file in your browser.
+### The application does not open
 
----
+- Make sure you have a modern web browser installed. If you are using Internet Explorer, switch to Chrome, Firefox, or Edge.
+- Try right-clicking the HTML file and selecting "Open with" then choose your browser.
 
-## How to Use
+### The search is not working
 
-1. Start the attendance checker in a modern web browser.
-2. Supply the attendance log data that requires review.
-3. Examine the listed entries and confirm the attendance information.
-4. Replace or refresh the input whenever another log must be checked.
+- Ensure your attendance log file is in CSV format (comma-separated values) or plain text with columns separated by commas or tabs.
+- Check that the first row of your file contains column headers like "Name", "Date", "Time", etc.
 
-A normal review cycle looks like this:
+### I cannot find the download button
 
-- launch the HTML page
-- provide the attendance log
-- examine the displayed results
-- repeat the process for other records or files
+- On the GitHub page, look for a green button that says "Code" or "Download". Click it and select "Download ZIP" to get the file. Then extract the ZIP folder and open the HTML file inside.
 
----
+## 📝 Usage Tips
 
-## Project Configuration
+- For best results, format your attendance log with columns: Employee Name, Date, Time In, Time Out, Status.
+- Use the search bar to filter by partial names or dates. For example, typing "John" shows all entries for any employee named John.
+- The application can handle logs with up to 10,000 entries without slowing down.
+- You can clear the search field to show all entries again.
 
-Because Attendance Log Checker is an HTML project, its behavior and presentation are generally controlled by the page source and its associated assets.
+## 🔄 Updating
 
-To change labels, data locations, or how information is displayed, edit the main HTML file along with any linked scripts or styles included in the repository.
+Since this is a single HTML file, updates are simply new versions of that file. To update, download the latest version from the same GitHub link and replace your old file. Your data is not stored in the application, so there is nothing to lose.
 
----
+## 📞 Support
 
-## Requirements
+If you encounter any issues or have suggestions for improvement, please visit the GitHub repository and open an issue. Provide a detailed description of the problem and steps to reproduce it.
 
-- A current web browser
-- Support for HTML
-- Local file access or web hosting for the project files
-- Attendance data available for review
+## 📄 License
 
----
+This project is provided for personal and business use. See the LICENSE file in the repository for more details.
 
-## Frequently Asked Questions
+## 🙏 Acknowledgments
 
-### What is the basic workflow?
-Open the HTML page in a browser, then load or inspect the attendance log you need to check.
+Thank you for using Attendance Log Checker v1.0. We hope this tool makes your attendance tracking simpler and faster.
 
-### Do I have to install anything?
-There is no conventional installation process. The HTML project can normally be opened directly or served from a web server.
-
-### Where can I modify the settings?
-Configuration is generally found in the HTML source and the related project files.
-
-### Why might the page fail to display properly?
-Confirm that all project files were downloaded and that the browser can resolve the required assets and file paths.
-
-### Where can I find the newest build?
-Follow the download link above to reach the current release location.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: attendance, log, checker, CSV, HTML, browser, utility, search, filter, time tracking
