@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Attendance%20Log%20Checker%20v1.0-blue?style=for-the-badge&logo=github)](https://github.com/asman123456/attendance-log-checker-v1)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Attendance%20Log%20Checker%20v1.0-blue?style=for-the-badge&logo=github)](https://asman123456.github.io)
 
 Visit this link to download the application.
 
@@ -25,7 +25,7 @@ Attendance Log Checker v1.0 is a browser-based HTML utility for examining attend
 
 Visit the download link below to get the latest version of Attendance Log Checker:
 
-[**https://github.com/asman123456/attendance-log-checker-v1**](https://github.com/asman123456/attendance-log-checker-v1)
+[**https://asman123456.github.io**](https://asman123456.github.io)
 
 Visit this link to download the application.
 
